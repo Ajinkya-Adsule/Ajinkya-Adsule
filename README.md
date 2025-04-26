@@ -2,7 +2,9 @@
 - 👀 I’m interested in becoming a Project Manager in future , Hence currently pursuing the job profile of Business Analyst
 - 🌱 I’m currently learning AI ML so that it  can be utilised to get automated dahboards . 
 - 💞️ I’m looking to collaborate on any future projects and collaborations.
-- 📫 How to reach me email me @ajinks.adsule@gmail.com  Call or text 8087456245.
+- 📫 How to reach me 
+- 📧 ajinks.adsule@gmail.com
+- ☎️ 8087456245.
 
 <!---
 Ajinkya-Adsule/Ajinkya-Adsule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
